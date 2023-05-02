@@ -1,0 +1,355 @@
+.bgimg2{
+    background-color: #69E6E8;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 730px;
+    
+}
+
+/* ---------------navigation bar------------------*/
+.navbar-brand {
+    margin-left: 80px;
+    margin-top: 8px;
+    font-family:cursive;
+}
+
+.navbar-nav{
+    margin-top: 0.5rem;
+    margin-left: 2rem;
+    
+}
+
+.searchbar{
+    font-size: 28px;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+.nav-link:hover{
+    font-weight:bold;
+    border-bottom: 1px solid black;
+}
+
+/*----------------------contents-------------------*/
+.prep{
+    font-size: 50px;
+    margin-left: 78px;
+    margin-top: -290px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.img1{
+   
+    padding-left: 850px;
+    padding-top: 150px;
+}
+/*----------------------container1-------------------*/
+.con1{
+    background-color: rgb(241, 238, 238);
+    width: 100%;
+    height: 520px;
+}
+
+.con1-head{
+    margin-left: 110px;
+    padding-top: 60px;
+}
+
+.text1{
+    width:40%;
+    margin-left: 110px;
+    padding-top: 40px;
+}
+
+.text1 h6{
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text2{
+    width:40%;
+    margin-left: 790px;
+    margin-top: -285px;
+}
+
+.text2 h6{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*----------------------container2-------------------*/
+.con{
+    background-color: rgb(229, 226, 236);
+    width: 100%;
+    height: 800px;
+}
+.con2{
+    background-color: rgb(229, 226, 236);
+    width: 100%;
+    height: 800px;
+}
+
+.ig1{
+    margin-left: 322px;
+    margin-top: 85px;
+}
+
+.sec1 h3{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 200px;
+    margin-top: -265px;
+    margin-left: 433px;
+}
+
+.sec1 p{
+    width:100px;
+    margin-left: 470px;
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.sec2{
+    width: 270px;
+    height: 300px;
+    margin-left: 622px;
+    margin-top: -715px;
+    background-color: white;
+}
+
+.sec2 h3{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 200px;
+    text-align:center;
+   padding-top: 32px;
+   padding-left: 50px;
+}
+.sec2 p{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 35px;
+}
+.sec3{
+    width: 270px;
+    height: 300px;
+    margin-left: 922px;
+    margin-top: -300px;
+
+}
+.sec3 h3{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 350px;
+    text-align:left;
+   margin-top: -285px;
+   padding-left: 40px;
+   color:black;
+}
+
+.sec3 p{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 108px;
+    font-size: 20px;
+    color: black;
+    width:150px;
+}
+
+.sec4{
+    width: 270px;
+    height: 300px;
+    margin-top: -55px;
+}
+.sec4 h3{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 200px;
+    text-align:right;
+   margin-top: -298px;
+   margin-left: 390px;
+}
+.sec4 p{
+    text-align: right;
+    margin-top: 10px;
+    margin-left: 420px;
+    font-size: 20px;
+    width:170px;
+}
+
+.sec5{
+    margin-left: 622px;
+    margin-top: -215px;
+}
+
+.sec6{
+    margin-left: 922px;
+    margin-top: -300px;
+}
+.sec6 p{
+    text-align: right;
+    margin-top: 15px;
+    margin-left: 75px;
+    font-size: 20px;
+    width:190px;
+    color: black;
+}
+.sec6 h3{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 250px;
+    text-align:right;
+   margin-top: -285px;
+   padding-left: 30px;
+   color: black;
+}
+
+.ig1:hover{
+    box-shadow: 5px 5px 5px 5px  rgb(114, 146, 165);
+}
+.ig2:hover{
+    box-shadow: 5px 5px 5px 5px   rgb(114, 146, 165);
+}
+
+
+/*----------------------container3-------------------*/
+
+.con9{
+    background-color: beige;
+}
+.hd{
+    color:rgb(202, 199, 199);
+    text-align: center;
+}
+.hd1{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.hd2{
+    color:rgb(163, 162, 165);
+    text-align: center;
+    font-size: 30px;
+    width:550px;
+    margin-left: 480px;
+}
+
+.links{
+    border: 1px solid white;
+    background-color: aliceblue;
+}
+
+
+.link-text1{
+margin-top: -68px;
+font-size: 25px;
+color: white;
+}
+
+.link-text2{
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.link-text3{
+    color: white;
+    margin-top:50px;
+    margin-left: 15px;
+}
+.link-text4{
+    margin-top: -325px;
+    font-size: 22px;
+    }
+
+.btn1{
+    text-align: center;
+    border: 1px solid black;
+    background-color: white;
+    padding:15px 40px 15px 40px  ;
+    margin-left: 46%;
+    margin-bottom: 5%;
+}
+.btn1:hover{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+/*----------------------container4-------------------*/
+.con10{
+    width:100%; 
+    height:800px; 
+    background-color:rgb(100, 37, 168);
+}
+
+.hd3{
+    margin-left: 180px;
+    padding-top: 80px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.hd4{
+    margin-left: 180px;
+    font-size: 30px;
+}
+.btn2{
+    text-align: center;
+    border:1px solid white;
+    background-color: rgb(100, 37, 168);
+    padding:15px 40px 15px 40px  ;
+    margin-left: 46%;
+}
+.btn2:hover{
+    background-color: black;
+    font-weight: bold;
+}
+
+.lin-text1{
+    background-color: white;
+    width:100%;
+    height:200px;
+    padding:15px;
+}
+.lin-text1:hover{
+    height:205px;
+    font-weight: bold; 
+    cursor:pointer;
+}
+
+
+/*----------------------container5/footer-------------------*/
+
+.footer {
+    background: white;
+    overflow-x: hidden;
+    font-size: large;
+
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+ul.footer-txt > li:first-child {
+    margin-top: 20px;
+}
+
+ul.footer-txt > li > a {
+    color: #000;
+    font-size: 16px;
+}
+ul.footer-txt > li {
+    margin-bottom: 10px;
+}
+
+footer .column i{
+    color: gray;
+
+}
+
+footer .column i + i{
+    padding: 0 0.5em;
+}
+
+.column i:hover{
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+}
